@@ -1,5 +1,7 @@
-### What's up my name is Lucas Rodrigo Krueger 😃
+### What's up! My name is Lucas Rodrigo Krueger 😃
 
+- 🔭 I'm currently a .NET Developer
+- 🌱 I'm now focused on learning React JS 
 
 <div>
   <a href="https://github.com/LucasRKrueger">
