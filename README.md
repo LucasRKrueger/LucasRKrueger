@@ -1,6 +1,6 @@
 ### What's up! My name is Lucas Rodrigo Krueger 😃
 
-- 🔭 I'm currently a Full Stack Developer
+- 🔭 I'm currently a React/React Native Developer
 - 🌱 I'm now focused on learning React Native
 
 <div>
