@@ -1,6 +1,6 @@
 ### What's up! My name is Lucas Rodrigo Krueger 😃
 
-- 🔭 I'm currently a React
+- 🔭 I'm currently a React Developer
 - 🌱 I'm focused on growing my css animations knowledge
 
 <div>
