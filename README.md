@@ -1,7 +1,7 @@
 ### What's up! My name is Lucas Rodrigo Krueger 😃
 
-- 🔭 I'm currently a React/React Native Developer
-- 🌱 I'm now focused on learning React Native
+- 🔭 I'm currently a React
+- 🌱 I'm focused on growing my css animations knowledge
 
 <div>
   <a href="https://github.com/LucasRKrueger">
