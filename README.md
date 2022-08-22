@@ -1,7 +1,7 @@
 ### What's up! My name is Lucas Rodrigo Krueger 😃
 
 - 🔭 I'm currently a React Developer
-- 🌱 I'm focused on learning Svelte
+- 🌱 I'm focused on learning React Design Patterns
 
 <div>
   <a href="https://github.com/LucasRKrueger">
