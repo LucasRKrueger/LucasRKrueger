@@ -1,4 +1,4 @@
-### Hey! How are you doing? I'm Lucas Rodrigo Krueger, you can call me Krueger
+### Hey! How are you doing? You can call me Lucas!
 
-- 🔭 I'm currently a Full Stack Engineer with Focus on Front End
-- 🌱 I'm focused on learning Java
+- 🔭 I'm a Software Engineer
+- 🌱 I'm focused on my personal project called "Plante"
