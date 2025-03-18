@@ -1,4 +1,4 @@
-### Hey! How are you doing? You can call me Lucas!
+### My name is Lucas Rodrigo!
 
 - 🔭 I'm a Software Engineer
-- 🌱 I'm focused on my personal project called "Plante"
+- 🌱 I'm working on a personal project called "Plante"
