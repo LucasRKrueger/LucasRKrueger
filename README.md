@@ -1,4 +1,3 @@
 ### My name is Lucas Rodrigo!
 
-- 🔭 I'm a Software Engineer
-- 🌱 I love nature
+- Designing and coding, always learning 🌱 self-taught Sofware Engineer.
